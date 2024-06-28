@@ -32,10 +32,12 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 A user-friendly web app for dessert enthusiasts to create and manage their recipe collections securely.
 
 Key Features:
-User Accounts: Secure user accounts for storing personal recipes privately.
-Recipe Management: Ability to add, edit, and delete recipes with ease.
-Favorites: Dedicated section to store favorite recipes for quick access.
-Search and Sorting: Filter and sort recipes based on servings and preparation time.
+- User Accounts: Secure user accounts for storing personal recipes privately.
+- Recipe Management: Ability to add, edit, and delete recipes with ease.
+- Favorites: Dedicated section to store favorite recipes for quick access.
+- Search and Sorting: Filter and sort recipes based on servings and preparation time.
+
+  
 Technologies Used: HTML, CSS, JavaScript, Angular, TypeScript, Firebase Authentication, Firebase Firestore.
 
 ![image](https://github.com/annelorecomnoiu/Dessert-Recipes/assets/94176638/0b95ffbf-7140-4f28-b54b-2aa38615257e)
