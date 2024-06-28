@@ -26,6 +26,17 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
+
+
+A user-friendly web app for dessert enthusiasts to create and manage their recipe collections securely.
+
+Key Features:
+User Accounts: Secure user accounts for storing personal recipes privately.
+Recipe Management: Ability to add, edit, and delete recipes with ease.
+Favorites: Dedicated section to store favorite recipes for quick access.
+Search and Sorting: Filter and sort recipes based on servings and preparation time.
+Technologies Used: HTML, CSS, JavaScript, Angular, TypeScript, Firebase Authentication, Firebase Firestore.
+
 ![image](https://github.com/annelorecomnoiu/Dessert-Recipes/assets/94176638/0b95ffbf-7140-4f28-b54b-2aa38615257e)
 ![image](https://github.com/annelorecomnoiu/Dessert-Recipes/assets/94176638/68dff5ec-6a14-413c-b3bc-25cf020b2cfc)
 ![image](https://github.com/annelorecomnoiu/Dessert-Recipes/assets/94176638/dbd341fd-e146-4096-95a0-54e2cd028fd5)
